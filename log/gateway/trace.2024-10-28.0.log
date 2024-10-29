@@ -1,0 +1,152 @@
+2024-10-28 17:38:08.435 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2024-10-28 17:38:08.463 INFO  com.ming.train.gatewawy.GatewayApplication        :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.12 with PID 18744 (D:\java\train\gateway\target\classes started by liming in D:\java\train)
+2024-10-28 17:38:08.464 INFO  com.ming.train.gatewawy.GatewayApplication        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:38:08.854 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2024-10-28 17:38:10.095 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2024-10-28 17:38:10.341 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2024-10-28 17:38:10.342 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-10-28 17:38:11.473 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:38:11.632 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8000
+2024-10-28 17:38:12.664 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:38:13.700 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:38:13.746 INFO  com.ming.train.gatewawy.GatewayApplication        :57   [32m                  [0;39m Started GatewayApplication in 6.76 seconds (process running for 7.16)
+2024-10-28 17:38:13.750 INFO  com.ming.train.gatewawy.GatewayApplication        :16   [32m                  [0;39m 启动成功！！
+2024-10-28 17:38:13.750 INFO  com.ming.train.gatewawy.GatewayApplication        :17   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8000
+2024-10-28 17:47:23.986 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2024-10-28 17:47:24.014 INFO  com.ming.train.gatewawy.GatewayApplication        :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.12 with PID 17020 (D:\java\train\gateway\target\classes started by liming in D:\java\train)
+2024-10-28 17:47:24.015 INFO  com.ming.train.gatewawy.GatewayApplication        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:47:24.564 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2024-10-28 17:47:25.914 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2024-10-28 17:47:26.214 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2024-10-28 17:47:26.215 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2024-10-28 17:47:26.215 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2024-10-28 17:47:26.215 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-10-28 17:47:26.215 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2024-10-28 17:47:26.215 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-10-28 17:47:27.386 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:27.585 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8000
+2024-10-28 17:47:28.630 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:29.677 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:29.744 INFO  com.ming.train.gatewawy.GatewayApplication        :57   [32m                  [0;39m Started GatewayApplication in 7.29 seconds (process running for 8.036)
+2024-10-28 17:47:29.746 INFO  com.ming.train.gatewawy.GatewayApplication        :16   [32m                  [0;39m 启动成功！！
+2024-10-28 17:47:29.746 INFO  com.ming.train.gatewawy.GatewayApplication        :17   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8000
+2024-10-28 17:48:01.997 ERROR o.s.b.a.w.r.error.AbstractErrorWebExceptionHandler:102  [32m                  [0;39m [e7569d52-1]  500 Server Error for HTTP GET "/member/hello"
+io.netty.channel.AbstractChannel$AnnotatedConnectException: Connection refused: getsockopt: /127.0.0.1:8081
+	Suppressed: reactor.core.publisher.FluxOnAssembly$OnAssemblyException: 
+Error has been observed at the following site(s):
+	*__checkpoint ⇢ org.springframework.cloud.gateway.filter.WeightCalculatorWebFilter [DefaultWebFilterChain]
+	*__checkpoint ⇢ HTTP GET "/member/hello" [ExceptionHandlingWebHandler]
+Original Stack Trace:
+Caused by: java.net.ConnectException: Connection refused: getsockopt
+	at java.base/sun.nio.ch.Net.pollConnect(Native Method)
+	at java.base/sun.nio.ch.Net.pollConnectNow(Net.java:672)
+	at java.base/sun.nio.ch.SocketChannelImpl.finishConnect(SocketChannelImpl.java:946)
+	at io.netty.channel.socket.nio.NioSocketChannel.doFinishConnect(NioSocketChannel.java:337)
+	at io.netty.channel.nio.AbstractNioChannel$AbstractNioUnsafe.finishConnect(AbstractNioChannel.java:334)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKey(NioEventLoop.java:776)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeysOptimized(NioEventLoop.java:724)
+	at io.netty.channel.nio.NioEventLoop.processSelectedKeys(NioEventLoop.java:650)
+	at io.netty.channel.nio.NioEventLoop.run(NioEventLoop.java:562)
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997)
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74)
+	at io.netty.util.concurrent.FastThreadLocalRunnable.run(FastThreadLocalRunnable.java:30)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024-10-28 17:48:57.328 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2024-10-28 17:48:57.354 INFO  com.ming.train.gatewawy.GatewayApplication        :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.12 with PID 18328 (D:\java\train\gateway\target\classes started by liming in D:\java\train)
+2024-10-28 17:48:57.355 INFO  com.ming.train.gatewawy.GatewayApplication        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:48:57.758 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2024-10-28 17:48:58.999 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:48:59.221 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2024-10-28 17:48:59.221 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2024-10-28 17:48:59.221 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-10-28 17:48:59.222 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2024-10-28 17:48:59.223 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-10-28 17:49:00.366 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:49:00.523 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8000
+2024-10-28 17:49:01.558 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:49:02.628 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:49:02.719 INFO  com.ming.train.gatewawy.GatewayApplication        :57   [32m                  [0;39m Started GatewayApplication in 6.843 seconds (process running for 7.32)
+2024-10-28 17:49:02.723 INFO  com.ming.train.gatewawy.GatewayApplication        :16   [32m                  [0;39m 启动成功！！
+2024-10-28 17:49:02.723 INFO  com.ming.train.gatewawy.GatewayApplication        :17   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8000
+2024-10-28 17:53:09.091 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2024-10-28 17:53:09.116 INFO  com.ming.train.gatewawy.GatewayApplication        :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.12 with PID 2488 (D:\java\train\gateway\target\classes started by liming in D:\java\train)
+2024-10-28 17:53:09.118 INFO  com.ming.train.gatewawy.GatewayApplication        :636  [32m                  [0;39m The following 1 profile is active: "-Dreactor.netty.http.server.accessLogEnabled=true"
+2024-10-28 17:53:09.525 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2024-10-28 17:53:10.763 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2024-10-28 17:53:11.020 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2024-10-28 17:53:11.021 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-10-28 17:53:12.162 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:53:12.342 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8000
+2024-10-28 17:53:13.375 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:53:14.445 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:53:14.526 INFO  com.ming.train.gatewawy.GatewayApplication        :57   [32m                  [0;39m Started GatewayApplication in 6.854 seconds (process running for 7.415)
+2024-10-28 17:53:14.528 INFO  com.ming.train.gatewawy.GatewayApplication        :16   [32m                  [0;39m 启动成功！！
+2024-10-28 17:53:14.528 INFO  com.ming.train.gatewawy.GatewayApplication        :17   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8000
+2024-10-28 17:55:19.112 INFO  org.hibernate.validator.internal.util.Version     :21   [32m                  [0;39m HV000001: Hibernate Validator 8.0.0.Final
+2024-10-28 17:55:19.138 INFO  com.ming.train.gatewawy.GatewayApplication        :51   [32m                  [0;39m Starting GatewayApplication using Java 17.0.12 with PID 22532 (D:\java\train\gateway\target\classes started by liming in D:\java\train)
+2024-10-28 17:55:19.139 INFO  com.ming.train.gatewawy.GatewayApplication        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:55:19.522 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=390a6740-1f4b-371e-8b32-9ee7183f016d
+2024-10-28 17:55:20.769 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:55:21.027 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [After]
+2024-10-28 17:55:21.028 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Before]
+2024-10-28 17:55:21.028 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Between]
+2024-10-28 17:55:21.028 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Cookie]
+2024-10-28 17:55:21.028 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Header]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Host]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Method]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Path]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Query]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [ReadBody]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [RemoteAddr]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [XForwardedRemoteAddr]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [Weight]
+2024-10-28 17:55:21.029 INFO  o.s.c.gateway.route.RouteDefinitionRouteLocator   :88   [32m                  [0;39m Loaded RoutePredicateFactory [CloudFoundryRouteService]
+2024-10-28 17:55:22.164 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:55:22.395 INFO  o.s.boot.web.embedded.netty.NettyWebServer        :111  [32m                  [0;39m Netty started on port 8000
+2024-10-28 17:55:23.431 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:55:24.521 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:55:24.585 INFO  com.ming.train.gatewawy.GatewayApplication        :57   [32m                  [0;39m Started GatewayApplication in 6.853 seconds (process running for 7.306)
+2024-10-28 17:55:24.587 INFO  com.ming.train.gatewawy.GatewayApplication        :16   [32m                  [0;39m 启动成功！！
+2024-10-28 17:55:24.587 INFO  com.ming.train.gatewawy.GatewayApplication        :17   [32m                  [0;39m 网关地址: 	http://127.0.0.1:8000
+2024-10-28 17:55:30.397 INFO  reactor.netty.http.server.AccessLog               :279  [32m                  [0;39m 127.0.0.1 - - [28/10月/2024:17:55:30 +0800] "GET /member/hello HTTP/1.1" 200 5 130

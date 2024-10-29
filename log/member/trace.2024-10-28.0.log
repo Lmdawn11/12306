@@ -1,0 +1,559 @@
+2024-10-28 16:05:47.270 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 30832 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:05:47.272 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:05:47.368 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=48127f96-07f5-3ac5-99c5-e6fe52ea15b1
+2024-10-28 16:05:47.396 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:05:47.397 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:05:47.397 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:05:47.410 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:05:47.410 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 136 ms
+2024-10-28 16:05:47.456 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:05:48.506 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:05:48.562 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:05:49.605 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:05:49.608 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.533 seconds (process running for 199.006)
+2024-10-28 16:05:49.610 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 16:05:49.610 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:05:49.610 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:08:42.360 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 16:08:42.389 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:08:43.524 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 30832 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:08:43.525 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:08:43.617 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=48127f96-07f5-3ac5-99c5-e6fe52ea15b1
+2024-10-28 16:08:43.644 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:08:43.645 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:08:43.645 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:08:43.660 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:08:43.660 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 133 ms
+2024-10-28 16:08:43.699 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:08:44.734 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:08:44.748 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:08:45.789 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:08:45.792 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.37 seconds (process running for 375.19)
+2024-10-28 16:08:45.794 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 16:08:45.794 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:08:45.794 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:10:08.531 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 16120 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:10:08.534 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:10:08.559 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-28 16:10:08.560 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-28 16:10:08.922 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=48127f96-07f5-3ac5-99c5-e6fe52ea15b1
+2024-10-28 16:10:09.284 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:10:09.292 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:10:09.292 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:10:09.293 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:10:09.337 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:10:09.337 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 777 ms
+2024-10-28 16:10:09.544 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:10:10.593 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:10:10.688 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:10:10.706 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:10:11.748 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:10:11.776 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 4.706 seconds (process running for 5.199)
+2024-10-28 16:10:11.784 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:10:11.786 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:10:13.914 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-28 16:10:13.915 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-10-28 16:10:13.916 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2024-10-28 16:36:50.246 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-10-28 16:36:50.292 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:36:50.293 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:36:50.314 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-10-28 16:36:50.337 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:36:50.340 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:36:51.582 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 16120 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:36:51.582 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:36:51.731 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=48127f96-07f5-3ac5-99c5-e6fe52ea15b1
+2024-10-28 16:36:51.771 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:36:51.772 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:36:51.772 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:36:51.772 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:36:51.789 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:36:51.789 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 203 ms
+2024-10-28 16:36:51.833 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:36:52.875 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:36:52.925 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:36:52.935 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:36:53.995 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:36:54.011 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.599 seconds (process running for 1607.434)
+2024-10-28 16:36:54.017 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 16:36:54.018 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:36:54.019 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:50:50.215 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-10-28 16:50:50.265 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:50:50.266 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:50:50.277 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:50:50.279 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:50:51.526 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 16120 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:50:51.526 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:50:51.675 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=2226e54b-347b-3ec4-8052-bd932ccfa747
+2024-10-28 16:50:51.712 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:50:51.712 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:50:51.712 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:50:51.714 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:50:51.724 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:50:51.724 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 195 ms
+2024-10-28 16:50:51.729 WARN  o.s.b.w.s.c.AnnotationConfigServletWebServerApplicationContext:592  [32m                  [0;39m Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logAspect': Lookup method resolution failed
+2024-10-28 16:50:51.730 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:50:51.744 INFO  o.s.b.a.logging.ConditionEvaluationReportLogger   :82   [32m                  [0;39m 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-10-28 16:50:51.807 ERROR org.springframework.boot.SpringApplication        :820  [32m                  [0;39m Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'logAspect': Lookup method resolution failed
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:470)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.determineCandidateConstructors(AutowiredAnnotationBeanPostProcessor.java:340)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.determineConstructorsFromBeanPostProcessors(AbstractAutowireCapableBeanFactory.java:1283)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBeanInstance(AbstractAutowireCapableBeanFactory.java:1185)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:561)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:521)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:326)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:324)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:200)
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:961)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:915)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:584)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:730)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:432)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:308)
+	at com.ming.MemberApplication.main(MemberApplication.java:20)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.springframework.boot.devtools.restart.RestartLauncher.run(RestartLauncher.java:49)
+Caused by: java.lang.IllegalStateException: Failed to introspect Class [com.ming.train.member.aspect.LogAspect] from ClassLoader [org.springframework.boot.devtools.restart.classloader.RestartClassLoader@55771e9e]
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:483)
+	at org.springframework.util.ReflectionUtils.doWithLocalMethods(ReflectionUtils.java:320)
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.checkLookupMethods(AutowiredAnnotationBeanPostProcessor.java:448)
+	... 22 common frames omitted
+Caused by: java.lang.NoClassDefFoundError: com/alibaba/fastjson/serializer/SerializeFilter
+	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
+	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3402)
+	at java.base/java.lang.Class.getDeclaredMethods(Class.java:2504)
+	at org.springframework.util.ReflectionUtils.getDeclaredMethods(ReflectionUtils.java:465)
+	... 24 common frames omitted
+Caused by: java.lang.ClassNotFoundException: com.alibaba.fastjson.serializer.SerializeFilter
+	at java.base/jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641)
+	at java.base/jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	at java.base/java.lang.Class.forName0(Native Method)
+	at java.base/java.lang.Class.forName(Class.java:467)
+	at org.springframework.boot.devtools.restart.classloader.RestartClassLoader.loadClass(RestartClassLoader.java:121)
+	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:525)
+	... 28 common frames omitted
+2024-10-28 16:50:57.834 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:50:57.836 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:50:57.865 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-28 16:50:57.865 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-28 16:50:58.265 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 16:50:58.798 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:50:58.805 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:50:58.806 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:50:58.806 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:50:58.857 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:50:58.857 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 991 ms
+2024-10-28 16:50:59.176 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:51:00.234 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:00.269 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:00.283 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:51:01.317 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:01.328 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 5.002 seconds (process running for 5.61)
+2024-10-28 16:51:01.330 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:51:01.330 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:51:14.533 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-28 16:51:14.534 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-10-28 16:51:14.534 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2024-10-28 16:51:14.588 INFO  com.ming.train.member.aspect.LogAspect            :49   [32m                  [0;39m ------------- 开始 -------------
+2024-10-28 16:51:14.589 INFO  com.ming.train.member.aspect.LogAspect            :50   [32m                  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 16:51:14.589 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m                  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 16:51:14.590 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m                  [0;39m 远程地址: 127.0.0.1
+2024-10-28 16:51:14.625 INFO  com.ming.train.member.aspect.LogAspect            :73   [32m                  [0;39m 请求参数: []
+2024-10-28 16:51:14.626 INFO  com.ming.train.member.aspect.LogAspect            :85   [32m                  [0;39m 返回结果: "hello"
+2024-10-28 16:51:14.626 INFO  com.ming.train.member.aspect.LogAspect            :86   [32m                  [0;39m ------------- 结束 耗时：39 ms -------------
+2024-10-28 16:51:45.008 INFO  com.ming.train.member.aspect.LogAspect            :49   [32m                  [0;39m ------------- 开始 -------------
+2024-10-28 16:51:45.008 INFO  com.ming.train.member.aspect.LogAspect            :50   [32m                  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 16:51:45.009 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m                  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 16:51:45.009 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m                  [0;39m 远程地址: 127.0.0.1
+2024-10-28 16:51:45.009 INFO  com.ming.train.member.aspect.LogAspect            :73   [32m                  [0;39m 请求参数: []
+2024-10-28 16:51:45.009 INFO  com.ming.train.member.aspect.LogAspect            :85   [32m                  [0;39m 返回结果: "hello"
+2024-10-28 16:51:45.009 INFO  com.ming.train.member.aspect.LogAspect            :86   [32m                  [0;39m ------------- 结束 耗时：1 ms -------------
+2024-10-28 16:51:50.211 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-10-28 16:51:50.223 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:50.223 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:51:50.225 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-10-28 16:51:50.233 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:50.236 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:51.391 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:51:51.392 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:51:51.601 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 16:51:51.694 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:51:51.695 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:51.695 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:51:51.695 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:51:51.708 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:51:51.709 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 315 ms
+2024-10-28 16:51:51.884 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:51:52.926 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:52.948 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:52.951 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:51:53.305 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (1 addition, 0 deletions, 0 modifications)
+2024-10-28 16:51:53.994 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:53.999 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.712 seconds (process running for 58.282)
+2024-10-28 16:51:54.000 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 16:51:54.001 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:51:54.001 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:51:54.005 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:54.005 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 16:51:54.006 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:54.007 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:55.096 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 16:51:55.097 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 16:51:55.178 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 16:51:55.224 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 16:51:55.225 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:55.225 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 16:51:55.225 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 16:51:55.239 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 16:51:55.239 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 141 ms
+2024-10-28 16:51:55.405 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 16:51:56.441 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:56.456 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 16:51:56.463 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 16:51:57.498 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 16:51:57.501 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.462 seconds (process running for 61.784)
+2024-10-28 16:51:57.502 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 16:51:57.502 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 16:51:57.502 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 16:52:02.090 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-28 16:52:02.090 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-10-28 16:52:02.091 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2024-10-28 16:52:02.109 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730105522092h77  [0;39m ------------- 开始 -------------
+2024-10-28 16:52:02.109 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730105522092h77  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 16:52:02.109 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730105522092h77  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 16:52:02.110 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730105522092h77  [0;39m 远程地址: 127.0.0.1
+2024-10-28 16:52:02.110 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730105522092h77  [0;39m 请求参数: []
+2024-10-28 16:52:02.110 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730105522092h77  [0;39m 返回结果: "hello"
+2024-10-28 16:52:02.110 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730105522092h77  [0;39m ------------- 结束 耗时：18 ms -------------
+2024-10-28 17:05:58.597 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 4 class path changes (0 additions, 3 deletions, 1 modification)
+2024-10-28 17:05:58.748 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:05:58.750 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:05:58.754 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Destroying Spring FrameworkServlet 'dispatcherServlet'
+2024-10-28 17:05:58.776 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:05:58.784 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:06:00.055 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:06:00.056 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:06:00.452 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=125ba1db-48ad-3e1d-a32b-69b280fcd95f
+2024-10-28 17:06:01.306 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:06:01.313 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:06:01.315 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:06:01.316 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:06:01.360 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:06:01.361 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1302 ms
+2024-10-28 17:06:01.536 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:06:02.622 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:06:02.651 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:06:02.659 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:06:03.709 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:06:03.722 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 4.784 seconds (process running for 908.006)
+2024-10-28 17:06:03.723 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:06:03.725 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:06:03.726 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:08:13.237 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 17:08:13.245 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:13.245 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:08:13.245 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:13.246 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:14.348 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:08:14.348 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:08:14.472 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:08:14.542 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:08:14.542 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:14.542 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:08:14.543 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:08:14.554 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:08:14.554 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 205 ms
+2024-10-28 17:08:14.715 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:08:15.768 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:08:15.783 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:15.785 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:08:16.158 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+2024-10-28 17:08:16.818 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:08:16.821 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.543 seconds (process running for 1041.104)
+2024-10-28 17:08:16.822 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:08:16.822 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:08:16.822 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:08:16.849 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:16.850 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:08:16.853 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:16.856 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:18.000 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:08:18.000 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:08:18.076 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:08:18.132 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:08:18.134 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:18.135 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:08:18.135 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:08:18.148 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:08:18.148 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 147 ms
+2024-10-28 17:08:18.278 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:08:19.315 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:08:19.356 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:08:19.360 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:08:20.415 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:08:20.426 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.509 seconds (process running for 1044.709)
+2024-10-28 17:08:20.430 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:08:20.431 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:08:20.431 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:14:01.203 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 17:14:01.217 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:01.217 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:14:01.220 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:01.222 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:02.349 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:14:02.350 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:14:02.443 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:14:02.489 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:14:02.489 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:02.489 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:14:02.490 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:14:02.501 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:14:02.501 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 149 ms
+2024-10-28 17:14:02.620 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:14:03.668 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:14:03.682 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:03.688 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:14:04.721 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:14:04.725 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.462 seconds (process running for 1389.008)
+2024-10-28 17:14:04.726 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:14:04.726 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:14:04.727 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:14:59.667 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 17:14:59.680 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:59.682 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:14:59.685 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:14:59.687 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:00.851 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:15:00.852 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:15:00.950 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=125ba1db-48ad-3e1d-a32b-69b280fcd95f
+2024-10-28 17:15:00.984 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:15:00.984 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:00.984 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:15:00.984 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:15:00.996 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:15:00.997 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 143 ms
+2024-10-28 17:15:01.035 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:15:02.083 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:02.096 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:02.101 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:15:02.455 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 3 class path changes (0 additions, 0 deletions, 3 modifications)
+2024-10-28 17:15:03.151 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:03.157 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.415 seconds (process running for 1447.441)
+2024-10-28 17:15:03.160 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:15:03.161 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:15:03.162 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:15:03.173 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:03.173 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:15:03.175 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:03.177 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:04.310 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:15:04.311 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:15:04.408 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:15:04.460 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:15:04.460 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:04.460 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:15:04.460 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:15:04.472 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:15:04.472 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 158 ms
+2024-10-28 17:15:04.589 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:15:05.623 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:05.638 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:05.641 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:15:06.678 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:06.682 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.466 seconds (process running for 1450.966)
+2024-10-28 17:15:06.683 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:15:06.683 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:15:06.684 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:15:48.010 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 17:15:48.039 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:48.039 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:15:48.042 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:48.043 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:49.154 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:15:49.154 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:15:49.241 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:15:49.303 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:15:49.304 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:49.304 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:15:49.304 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:15:49.317 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:15:49.317 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 162 ms
+2024-10-28 17:15:49.498 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:15:50.554 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:50.565 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:50.568 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:15:50.928 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+2024-10-28 17:15:51.609 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:51.620 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.532 seconds (process running for 1495.903)
+2024-10-28 17:15:51.623 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:15:51.624 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:15:51.624 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:15:51.638 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:51.639 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:15:51.642 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:51.644 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:52.786 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:15:52.786 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:15:52.863 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:15:52.914 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:15:52.914 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:52.914 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:15:52.914 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:15:52.925 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:15:52.925 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 138 ms
+2024-10-28 17:15:53.048 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:15:54.092 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:54.136 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:15:54.144 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:15:55.207 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:15:55.218 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.522 seconds (process running for 1499.501)
+2024-10-28 17:15:55.221 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:15:55.222 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:15:55.223 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:17:47.069 INFO  o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener:211  [32m                  [0;39m Restarting due to 1 class path change (0 additions, 1 deletion, 0 modifications)
+2024-10-28 17:17:47.076 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Pausing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:17:47.076 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Stopping service [Tomcat]
+2024-10-28 17:17:47.077 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Stopping ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:17:47.078 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Destroying ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:17:48.209 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 26360 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:17:48.209 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:17:48.324 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=d782d16d-aae3-3bb6-be34-346c6d338f2e
+2024-10-28 17:17:48.347 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:17:48.348 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:17:48.348 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:17:48.348 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:17:48.361 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:17:48.361 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 148 ms
+2024-10-28 17:17:48.398 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:17:49.446 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:17:49.472 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:17:49.477 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:17:50.541 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:17:50.548 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 3.433 seconds (process running for 1614.831)
+2024-10-28 17:17:50.551 INFO  o.s.b.d.a.ConditionEvaluationDeltaLoggingListener :63   [32m                  [0;39m Condition evaluation unchanged
+2024-10-28 17:17:50.552 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:17:50.552 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:18:12.931 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 29232 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:18:12.933 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:18:12.968 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-28 17:18:12.968 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-28 17:18:13.692 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:18:14.326 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:18:14.333 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:18:14.334 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:18:14.334 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:18:14.390 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:18:14.390 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1421 ms
+2024-10-28 17:18:14.806 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:18:15.861 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:18:15.919 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:18:15.934 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:18:16.971 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:18:16.979 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 5.712 seconds (process running for 6.495)
+2024-10-28 17:18:16.980 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:18:16.981 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:18:23.201 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-28 17:18:23.201 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-10-28 17:18:23.202 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 1 ms
+2024-10-28 17:18:23.273 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m17301071032510j7  [0;39m ------------- 开始 -------------
+2024-10-28 17:18:23.275 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m17301071032510j7  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 17:18:23.275 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m17301071032510j7  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:18:23.275 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m17301071032510j7  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:18:23.308 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m17301071032510j7  [0;39m 请求参数: []
+2024-10-28 17:18:23.309 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m17301071032510j7  [0;39m 返回结果: "hello"
+2024-10-28 17:18:23.310 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m17301071032510j7  [0;39m ------------- 结束 耗时：59 ms -------------
+2024-10-28 17:47:05.255 INFO  com.ming.MemberApplication                        :51   [32m                  [0;39m Starting MemberApplication using Java 17.0.12 with PID 32348 (D:\java\train\member\target\classes started by liming in D:\java\train)
+2024-10-28 17:47:05.258 INFO  com.ming.MemberApplication                        :630  [32m                  [0;39m No active profile set, falling back to 1 default profile: "default"
+2024-10-28 17:47:05.289 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2024-10-28 17:47:05.289 INFO  o.s.b.d.env.DevToolsPropertyDefaultsPostProcessor :250  [32m                  [0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2024-10-28 17:47:05.858 INFO  o.springframework.cloud.context.scope.GenericScope:282  [32m                  [0;39m BeanFactory id=a1c63f2a-71b2-3a2e-82be-283d66126288
+2024-10-28 17:47:06.418 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :114  [32m                  [0;39m Tomcat initialized with port(s): 8001 (http)
+2024-10-28 17:47:06.427 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Initializing ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:47:06.428 INFO  org.apache.catalina.core.StandardService          :173  [32m                  [0;39m Starting service [Tomcat]
+2024-10-28 17:47:06.428 INFO  org.apache.catalina.core.StandardEngine           :173  [32m                  [0;39m Starting Servlet engine: [Apache Tomcat/10.1.1]
+2024-10-28 17:47:06.471 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring embedded WebApplicationContext
+2024-10-28 17:47:06.471 INFO  o.s.b.w.s.c.ServletWebServerApplicationContext    :291  [32m                  [0;39m Root WebApplicationContext: initialization completed in 1182 ms
+2024-10-28 17:47:06.825 INFO  o.s.b.d.autoconfigure.OptionalLiveReloadServer    :59   [32m                  [0;39m LiveReload server is running on port 35729
+2024-10-28 17:47:07.876 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:07.913 INFO  org.apache.coyote.http11.Http11NioProtocol        :173  [32m                  [0;39m Starting ProtocolHandler ["http-nio-8001"]
+2024-10-28 17:47:07.928 INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer      :226  [32m                  [0;39m Tomcat started on port(s): 8001 (http) with context path '/member'
+2024-10-28 17:47:08.958 INFO  org.springframework.cloud.commons.util.InetUtils  :170  [32m                  [0;39m Cannot determine local hostname
+2024-10-28 17:47:08.965 INFO  com.ming.MemberApplication                        :57   [32m                  [0;39m Started MemberApplication in 5.258 seconds (process running for 6.521)
+2024-10-28 17:47:08.967 INFO  com.ming.MemberApplication                        :21   [32m                  [0;39m 启动成功！！
+2024-10-28 17:47:08.967 INFO  com.ming.MemberApplication                        :22   [32m                  [0;39m 测试地址: 	http://127.0.0.1:8001/member/hello
+2024-10-28 17:47:15.934 INFO  o.a.c.c.C.[Tomcat].[localhost].[/member]          :173  [32m                  [0;39m Initializing Spring DispatcherServlet 'dispatcherServlet'
+2024-10-28 17:47:15.935 INFO  org.springframework.web.servlet.DispatcherServlet :525  [32m                  [0;39m Initializing Servlet 'dispatcherServlet'
+2024-10-28 17:47:15.935 INFO  org.springframework.web.servlet.DispatcherServlet :547  [32m                  [0;39m Completed initialization in 0 ms
+2024-10-28 17:47:16.034 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m17301088360083mf  [0;39m ------------- 开始 -------------
+2024-10-28 17:47:16.034 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m17301088360083mf  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 17:47:16.034 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m17301088360083mf  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:47:16.035 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m17301088360083mf  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:47:16.065 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m17301088360083mf  [0;39m 请求参数: []
+2024-10-28 17:47:16.065 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m17301088360083mf  [0;39m 返回结果: "hello"
+2024-10-28 17:47:16.065 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m17301088360083mf  [0;39m ------------- 结束 耗时：57 ms -------------
+2024-10-28 17:48:15.440 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730108895440z82  [0;39m ------------- 开始 -------------
+2024-10-28 17:48:15.441 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730108895440z82  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 17:48:15.441 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730108895440z82  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:48:15.441 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730108895440z82  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:48:15.441 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730108895440z82  [0;39m 请求参数: []
+2024-10-28 17:48:15.442 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730108895440z82  [0;39m 返回结果: "hello"
+2024-10-28 17:48:15.442 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730108895440z82  [0;39m ------------- 结束 耗时：2 ms -------------
+2024-10-28 17:49:05.826 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730108945826xcf  [0;39m ------------- 开始 -------------
+2024-10-28 17:49:05.827 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730108945826xcf  [0;39m 请求地址: http://127.0.0.1:8001/member/hello GET
+2024-10-28 17:49:05.827 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730108945826xcf  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:49:05.827 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730108945826xcf  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:49:05.827 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730108945826xcf  [0;39m 请求参数: []
+2024-10-28 17:49:05.828 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730108945826xcf  [0;39m 返回结果: "hello"
+2024-10-28 17:49:05.828 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730108945826xcf  [0;39m ------------- 结束 耗时：2 ms -------------
+2024-10-28 17:49:31.402 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730108971402ccc  [0;39m ------------- 开始 -------------
+2024-10-28 17:49:31.403 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730108971402ccc  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 17:49:31.403 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730108971402ccc  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:49:31.403 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730108971402ccc  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:49:31.404 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730108971402ccc  [0;39m 请求参数: []
+2024-10-28 17:49:31.404 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730108971402ccc  [0;39m 返回结果: "hello"
+2024-10-28 17:49:31.404 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730108971402ccc  [0;39m ------------- 结束 耗时：2 ms -------------
+2024-10-28 17:50:02.058 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m173010900205858n  [0;39m ------------- 开始 -------------
+2024-10-28 17:50:02.058 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m173010900205858n  [0;39m 请求地址: http://localhost:8001/member/hello GET
+2024-10-28 17:50:02.058 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m173010900205858n  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:50:02.059 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m173010900205858n  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:50:02.059 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m173010900205858n  [0;39m 请求参数: []
+2024-10-28 17:50:02.059 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m173010900205858n  [0;39m 返回结果: "hello"
+2024-10-28 17:50:02.059 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m173010900205858n  [0;39m ------------- 结束 耗时：1 ms -------------
+2024-10-28 17:50:05.281 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730109005281yoa  [0;39m ------------- 开始 -------------
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730109005281yoa  [0;39m 请求地址: http://127.0.0.1:8001/member/hello GET
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730109005281yoa  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730109005281yoa  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730109005281yoa  [0;39m 请求参数: []
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730109005281yoa  [0;39m 返回结果: "hello"
+2024-10-28 17:50:05.282 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730109005281yoa  [0;39m ------------- 结束 耗时：1 ms -------------
+2024-10-28 17:53:16.361 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730109196361pcq  [0;39m ------------- 开始 -------------
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730109196361pcq  [0;39m 请求地址: http://127.0.0.1:8001/member/hello GET
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730109196361pcq  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730109196361pcq  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730109196361pcq  [0;39m 请求参数: []
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730109196361pcq  [0;39m 返回结果: "hello"
+2024-10-28 17:53:16.362 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730109196361pcq  [0;39m ------------- 结束 耗时：1 ms -------------
+2024-10-28 17:54:35.149 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730109275149yhc  [0;39m ------------- 开始 -------------
+2024-10-28 17:54:35.150 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730109275149yhc  [0;39m 请求地址: http://127.0.0.1:8001/member/hello GET
+2024-10-28 17:54:35.150 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730109275149yhc  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:54:35.150 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730109275149yhc  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:54:35.150 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730109275149yhc  [0;39m 请求参数: []
+2024-10-28 17:54:35.151 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730109275149yhc  [0;39m 返回结果: "hello"
+2024-10-28 17:54:35.151 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730109275149yhc  [0;39m ------------- 结束 耗时：2 ms -------------
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :51   [32m1730109330381ihb  [0;39m ------------- 开始 -------------
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :52   [32m1730109330381ihb  [0;39m 请求地址: http://127.0.0.1:8001/member/hello GET
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :53   [32m1730109330381ihb  [0;39m 类名方法: com.ming.train.member.controller.TestController.hello
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :54   [32m1730109330381ihb  [0;39m 远程地址: 127.0.0.1
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :75   [32m1730109330381ihb  [0;39m 请求参数: []
+2024-10-28 17:55:30.381 INFO  com.ming.train.member.aspect.LogAspect            :87   [32m1730109330381ihb  [0;39m 返回结果: "hello"
+2024-10-28 17:55:30.382 INFO  com.ming.train.member.aspect.LogAspect            :88   [32m1730109330381ihb  [0;39m ------------- 结束 耗时：1 ms -------------
